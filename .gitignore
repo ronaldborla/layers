@@ -1,0 +1,31 @@
+# OS
+# ===========
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Node and related ecosystem
+# ==========================
+bower_components/
+
+# General
+# =======
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.tmp
+*.bak
+*.swp
+
+# Sublime editor
+# ==============
+.sublime-project
+*.sublime-project
+*.sublime-workspace
+
+# Others
+test/
