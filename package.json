@@ -1,5 +1,5 @@
 {
-  "name": "layers",
+  "name": "image-layers",
   "version": "1.0.0",
   "description": "Image manipulation with layers using Jimp",
   "main": "index.js",
@@ -14,7 +14,7 @@
     "ronald borla",
     "image manipulation",
     "watermark",
-    "layers"
+    "image-layers"
   ],
   "author": "Ronald Borla",
   "license": "MIT",
