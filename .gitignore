@@ -7,7 +7,7 @@ Thumbs.db
 
 # Node and related ecosystem
 # ==========================
-bower_components/
+node_modules/
 
 # General
 # =======
